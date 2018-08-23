@@ -72,7 +72,7 @@ public class JankenView extends Application {
 
   //VBox：垂直方向に配置するレイアウト
   VBox vbox = new VBox();
-  //vboxの配置位置
+  //vboxの配置位置agti
   vbox.setAlignment(Pos.CENTER);
   //vboxに配置するコントロールの隙間
   vbox.setSpacing(8);
